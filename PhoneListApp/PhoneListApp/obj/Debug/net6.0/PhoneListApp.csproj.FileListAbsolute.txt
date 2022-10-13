@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\bin\Debug\net6.0\PhoneListApp.exe
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\bin\Debug\net6.0\PhoneListApp.deps.json
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\bin\Debug\net6.0\PhoneListApp.runtimeconfig.json
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\bin\Debug\net6.0\PhoneListApp.dll
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\bin\Debug\net6.0\PhoneListApp.pdb
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.dll
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\refint\PhoneListApp.dll
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.pdb
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\PhoneListApp.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\PhoneListApp\PhoneListApp\obj\Debug\net6.0\ref\PhoneListApp.dll

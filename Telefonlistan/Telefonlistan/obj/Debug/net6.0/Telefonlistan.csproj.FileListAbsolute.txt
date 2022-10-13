@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\bin\Debug\net6.0\Telefonlistan.exe
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\bin\Debug\net6.0\Telefonlistan.deps.json
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\bin\Debug\net6.0\Telefonlistan.runtimeconfig.json
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\bin\Debug\net6.0\Telefonlistan.dll
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\bin\Debug\net6.0\Telefonlistan.pdb
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.dll
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\refint\Telefonlistan.dll
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.pdb
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\Telefonlistan.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\Telefonlistan\Telefonlistan\obj\Debug\net6.0\ref\Telefonlistan.dll

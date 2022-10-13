@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\bin\Debug\net6.0\IntroClassObjects.exe
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\bin\Debug\net6.0\IntroClassObjects.deps.json
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\bin\Debug\net6.0\IntroClassObjects.runtimeconfig.json
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\bin\Debug\net6.0\IntroClassObjects.dll
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\bin\Debug\net6.0\IntroClassObjects.pdb
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.dll
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\refint\IntroClassObjects.dll
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.pdb
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\IntroClassObjects.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\IntroClassObjects\IntroClassObjects\obj\Debug\net6.0\ref\IntroClassObjects.dll

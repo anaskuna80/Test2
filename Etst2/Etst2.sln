@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etst2", "Etst2.csproj", "{8F128329-2A00-48E2-85AA-2544A9529E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F128329-2A00-48E2-85AA-2544A9529E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F128329-2A00-48E2-85AA-2544A9529E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F128329-2A00-48E2-85AA-2544A9529E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F128329-2A00-48E2-85AA-2544A9529E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE4EE89-7E96-4ED9-B6CC-DC604B49C64F}
+	EndGlobalSection
+EndGlobal

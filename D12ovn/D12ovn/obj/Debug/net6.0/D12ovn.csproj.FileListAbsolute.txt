@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\bin\Debug\net6.0\D12ovn.exe
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\bin\Debug\net6.0\D12ovn.deps.json
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\bin\Debug\net6.0\D12ovn.runtimeconfig.json
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\bin\Debug\net6.0\D12ovn.dll
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\bin\Debug\net6.0\D12ovn.pdb
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.dll
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\refint\D12ovn.dll
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.pdb
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\D12ovn.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\D12ovn\D12ovn\obj\Debug\net6.0\ref\D12ovn.dll

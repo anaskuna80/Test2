@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\bin\Debug\net6.0\D15-ovn-1.exe
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\bin\Debug\net6.0\D15-ovn-1.deps.json
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\bin\Debug\net6.0\D15-ovn-1.runtimeconfig.json
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\bin\Debug\net6.0\D15-ovn-1.dll
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\bin\Debug\net6.0\D15-ovn-1.pdb
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.dll
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\refint\D15-ovn-1.dll
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.pdb
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\D15-ovn-1.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\D15-ovn-1\D15-ovn-1\obj\Debug\net6.0\ref\D15-ovn-1.dll

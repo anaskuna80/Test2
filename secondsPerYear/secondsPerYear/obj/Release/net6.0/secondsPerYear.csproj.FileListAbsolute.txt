@@ -1,0 +1,5 @@
+C:\Users\Andreas\source\repos\secondsPerYear\secondsPerYear\obj\Release\net6.0\secondsPerYear.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\secondsPerYear\secondsPerYear\obj\Release\net6.0\secondsPerYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\secondsPerYear\secondsPerYear\obj\Release\net6.0\secondsPerYear.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\secondsPerYear\secondsPerYear\obj\Release\net6.0\secondsPerYear.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\secondsPerYear\secondsPerYear\obj\Release\net6.0\secondsPerYear.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.csproj.AssemblyReference.cache
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Etst2\bin\Debug\net6.0\Etst2.exe
+C:\Users\Andreas\source\repos\Etst2\bin\Debug\net6.0\Etst2.deps.json
+C:\Users\Andreas\source\repos\Etst2\bin\Debug\net6.0\Etst2.runtimeconfig.json
+C:\Users\Andreas\source\repos\Etst2\bin\Debug\net6.0\Etst2.dll
+C:\Users\Andreas\source\repos\Etst2\bin\Debug\net6.0\Etst2.pdb
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.dll
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\refint\Etst2.dll
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.pdb
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\Etst2.genruntimeconfig.cache
+C:\Users\Andreas\source\repos\Etst2\obj\Debug\net6.0\ref\Etst2.dll
